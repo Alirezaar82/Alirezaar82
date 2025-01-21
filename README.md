@@ -2,10 +2,9 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="80" height="80" alt="Rust">
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alirezaar82/resources/main/rust-logo-white-bg.png" width="80" height="80" alt="Rust">
-</p>
+
 
 
 
