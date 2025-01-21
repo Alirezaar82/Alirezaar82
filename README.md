@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="80" height="80" alt="Rust">
+</p>
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create innovative solutions using **Python** 🐍, **Rust** 🦀, and **Django** 🌐. I specialize in **AI** 🤖, **Deep Learning** 🧠, and **Data Science** 📊, crafting web applications and intelligent systems.
 
