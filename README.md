@@ -10,6 +10,7 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves to create innovative solutions using **Python** 🐍, **Rust** 🦀, and **Django** 🌐. I specialize in **AI** 🤖, **Deep Learning** 🧠, and **Data Science** 📊, crafting web applications and intelligent systems.
 
+Telegram : https://t.me/IS_AlirezaAR
 ---
 
 ### 💻 My Skills & Tools:
