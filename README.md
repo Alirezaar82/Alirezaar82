@@ -1,23 +1,25 @@
-# 🏎️ Hi there, I'm Alireza — Fueled by Code & Speed!
+# 🏎️ Hi there, I'm Alireza — Fueled by Code, Speed & Intelligence!
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
   <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif" width="80" height="80" alt="Rust">
+  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80" height="80" alt="AI Brain">
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" height="80" alt="F1 Speed">
 </p>
 
 🏁 Welcome to my GitHub garage!  
-I'm **Alireza**, a developer who's all about speed — whether it’s writing blazing-fast **Rust** code 🦀, crafting intelligent systems with **Python** 🐍, or racing through **Django** web apps 🌐.  
-Off the track? I’m a **Ferrari F1 fan** ❤️ and I bring that same **passion and precision** to my code.
+I'm **Alireza**, a developer fueled by **AI innovation**, **clean code**, and **Ferrari-tier performance**.  
+Whether I’m writing blazing-fast **Rust** 🦀, building smart systems with **Python** 🐍, or deploying full-stack apps with **Django** 🌐, I’m always chasing speed **and** intelligence.
 
 📡 Telegram: [@isalireza_ar](https://t.me/isalireza_ar)
 
 ---
 
 ### 🧠 What Drives Me:
-- Writing clean, powerful code in **Python** and **Rust**
-- Building smart apps with **AI**, **Deep Learning**, and **Django**
-- Solving problems fast — like an F1 pit crew under pressure 🏎️💨
+- Crafting intelligent systems with **AI**, **Deep Learning**, and **Machine Learning**
+- Solving real-world problems using **Python**, **Rust**, and **Django**
+- Exploring datasets and training models with **TensorFlow**, **Pandas**, and **NumPy**
+- Bringing F1 precision to every line of code I write 🏎️💨
 
 ---
 
@@ -35,4 +37,4 @@ Off the track? I’m a **Ferrari F1 fan** ❤️ and I bring that same **passion
 ---
 
 ### 🏆 My Motto:
-> “Code like a champion. Debug like a pit crew. Deploy like a Ferrari on race day.” 🏁
+> “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏁
