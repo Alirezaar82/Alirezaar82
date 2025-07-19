@@ -15,8 +15,6 @@ I'm Alireza, a developer fueled by AI innovation,
 I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, or deploying full-stack apps with Django 🌐
 
 📡 Telegram: [@isalireza_ar](https://t.me/isalireza_ar)
-<img src="" height="25" alt="linkedin logo"  />
-
 ---
 
 ### 🧠 What Drives Me:
