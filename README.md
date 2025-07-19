@@ -7,9 +7,9 @@
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" height="80" alt="F1 Speed">
 </p>
 
-🏁 Welcome to my GitHub garage!  
-I'm **Alireza**, a developer fueled by **AI innovation**, **clean code**, and **Ferrari-tier performance**.  
-Whether I’m writing blazing-fast **Rust** 🦀, building smart systems with **Python** 🐍, or deploying full-stack apps with **Django** 🌐, I’m always chasing speed **and** intelligence.
+🏁 Welcome to my GitHub garage!
+I'm Alireza, a developer fueled by AI innovation,
+I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, or deploying full-stack apps with Django 🌐
 
 📡 Telegram: [@isalireza_ar](https://t.me/isalireza_ar)
 
