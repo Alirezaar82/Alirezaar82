@@ -1,4 +1,4 @@
-# 🏎️ Hi there, I'm Alireza — Fueled by Code, Speed & Intelligence!
+# 🏎️ Hi there, I'm Alireza
 
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
