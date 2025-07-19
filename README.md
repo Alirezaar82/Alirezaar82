@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
   <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif" width="80" height="80" alt="Rust">
-  <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="80" height="80" alt="AI Brain">
   <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="80" height="80" alt="F1 Speed">
 </p>
 
