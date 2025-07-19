@@ -41,3 +41,10 @@ I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, o
 
 ### 🏆 My Motto:
 > “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏁
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
