@@ -20,6 +20,7 @@ I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, o
 - Designing smart systems by combining all my tools — Python, Rust, Django, APIs, and more
 - Exploring datasets, training and evaluating models using **TensorFlow**, **Pandas**, and **NumPy**
 - Working with **Blender's Python API** to automate 3D tasks and bring intelligence to creative workflows 🎨🧠
+- Passionate about programming at every level — from high-level applications to low-level systems and hardware 🚀🔧  
 - Engineering every line of code with the precision of a Ferrari F1 team 🏁💨
 ---
 
