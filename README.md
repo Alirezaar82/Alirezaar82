@@ -13,11 +13,14 @@ I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, o
 ---
 
 ### 🧠 What Drives Me:
-- Crafting intelligent systems with **AI**, **Deep Learning**, and **Machine Learning**
-- Solving real-world problems using **Python**, **Rust**, and **Django**
-- Exploring datasets and training models with **TensorFlow**, **Pandas**, and **NumPy**
-- Bringing F1 precision to every line of code I write 🏎️💨
-
+- Building complete web platforms using **Django** as a powerful backend framework 🛠️
+- Developing **AI**, **Deep Learning**, and **Machine Learning** 🤖
+- Writing robust and efficient code in **Python** 🐍 and **Rust** 🦀 for both  system-level apps
+- Creating **Telegram bots** using Python to automate and simplify tasks 🤖📬
+- Designing smart systems by combining all my tools — Python, Rust, Django, APIs, and more
+- Exploring datasets, training and evaluating models using **TensorFlow**, **Pandas**, and **NumPy**
+- Working with **Blender's Python API** to automate 3D tasks and bring intelligence to creative workflows 🎨🧠
+- Engineering every line of code with the precision of a Ferrari F1 team 🏁💨
 ---
 
 ### 🧰 My Pit Crew (Skills & Tools):
