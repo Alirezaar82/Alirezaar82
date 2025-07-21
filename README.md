@@ -5,9 +5,14 @@
   <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif" width="80" height="80" alt="Rust">
 </p>
 
-🏁 Welcome to my GitHub garage!
-I'm Alireza, a developer fueled by AI innovation,
-I’m writing blazing-fast Rust 🦀, building smart systems with Python 🐍, or deploying full-stack apps with Django 🌐
+🏁 Welcome to my GitHub garage!  
+Hey there, I'm **Alireza** — just a guy who loves to programing💥  
+Whether it's low-level systems with **Rust** 🦀, AI experiments with **Python** 🐍, or web apps running on **Django** 🚀
+
+I mess with machine learning, deep learning, 3D automation in **Blender**, bots for Telegram, API-powered tools — basically anything that sounds fun and challenging.  
+Sometimes I’m training models, sometimes I’m launching full-stack apps... and sometimes I’m just tweaking code like tuning an F1 car for race day 🏎️💨
+
+Feel free to check out my repos, drop a star ⭐
 
 📡 Telegram: [@isalireza_ar](https://t.me/isalireza_ar)
 ---
