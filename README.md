@@ -3,11 +3,12 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
   <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif" width="80" height="80" alt="Rust">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80" height="80" alt="Go">
 </p>
 
 🏁 Welcome to my GitHub garage!  
 Hey there, I'm **Alireza** — just a guy who loves to programing💥  
-Whether it's low-level systems with **Rust** 🦀, AI experiments with **Python** 🐍, or web apps running on **Django** 🚀
+Whether it's low-level systems with **Rust** 🦀, fast and concurrent apps with **Go** 🐹, AI experiments with **Python** 🐍, or web apps running on **Django** 🚀
 
 I mess with machine learning, deep learning, 3D automation in **Blender**, bots for Telegram, API-powered tools — basically anything that sounds fun and challenging.  
 Sometimes I’m training models, sometimes I’m launching full-stack apps... and sometimes I’m just tweaking code like tuning an F1 car for race day 🏎️💨
@@ -20,9 +21,9 @@ Feel free to check out my repos, drop a star ⭐
 ### 🧠 What Drives Me:
 - Building complete web platforms using **Django** as a powerful backend framework 🛠️
 - Developing **AI**, **Deep Learning**, and **Machine Learning** 🤖
-- Writing robust and efficient code in **Python** 🐍 and **Rust** 🦀 for both  system-level apps
+- Writing robust and efficient code in **Python** 🐍, **Rust** 🦀, and **Go** 🐹 for both system-level and backend apps
 - Creating **Telegram bots** using Python to automate and simplify tasks 🤖📬
-- Designing smart systems by combining all my tools — Python, Rust, Django, APIs, and more
+- Designing smart systems by combining all my tools — Python, Rust, Go, Django, APIs, and more
 - Exploring datasets, training and evaluating models using **TensorFlow**, **Pandas**, and **NumPy**
 - Working with **Blender's Python API** to automate 3D tasks and bring intelligence to creative workflows 🎨🧠
 - Passionate about programming at every level — from high-level applications to low-level systems and hardware 🚀🔧  
@@ -33,6 +34,7 @@ Feel free to check out my repos, drop a star ⭐
 - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 - ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 - ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -44,3 +46,4 @@ Feel free to check out my repos, drop a star ⭐
 
 ### 🏆 My Motto:
 > “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏁
+
