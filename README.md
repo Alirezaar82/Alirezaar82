@@ -1,49 +1,82 @@
-# 🏎️ Hi there, I'm Alireza
+<div align="center">
+
+<img src="https://media.giphy.com/media/StAzoi8y1gT5L1m1B6/giphy.gif" width="100%"/>
+
+<h1>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Alireza+%F0%9F%91%8B;Welcome+to+my+GitHub+Garage!+%F0%9F%8F%81" alt="Typing SVG" /></a>
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="80" height="80">
-  <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif" width="80" height="80" alt="Rust">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80" height="80" alt="Go">
+  <a href="https://github.com/Alirezaar82">
+    <img src="https://github-readme-stats.vercel.app/api?username=Alirezaar82&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alireza's GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/Alirezaar82">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezaar82&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  </a>
 </p>
 
-🏁 Welcome to my GitHub garage!  
-Hey there, I'm **Alireza** — just a guy who loves to programing💥  
-Whether it's low-level systems with **Rust** 🦀, fast and concurrent apps with **Go** 🐹, AI experiments with **Python** 🐍, or web apps running on **Django** 🚀
-
-I mess with machine learning, deep learning, 3D automation in **Blender**, bots for Telegram, API-powered tools — basically anything that sounds fun and challenging.  
-Sometimes I’m training models, sometimes I’m launching full-stack apps... and sometimes I’m just tweaking code like tuning an F1 car for race day 🏎️💨
-
-Feel free to check out my repos, drop a star ⭐
-
-📡 Telegram: [@isalireza_ar](https://t.me/isalireza_ar)
----
-
-### 🧠 What Drives Me:
-- Building complete web platforms using **Django** as a powerful backend framework 🛠️
-- Developing **AI**, **Deep Learning**, and **Machine Learning** 🤖
-- Writing robust and efficient code in **Python** 🐍, **Rust** 🦀, and **Go** 🐹 for both system-level and backend apps
-- Creating **Telegram bots** using Python to automate and simplify tasks 🤖📬
-- Designing smart systems by combining all my tools — Python, Rust, Go, Django, APIs, and more
-- Exploring datasets, training and evaluating models using **TensorFlow**, **Pandas**, and **NumPy**
-- Working with **Blender's Python API** to automate 3D tasks and bring intelligence to creative workflows 🎨🧠
-- Passionate about programming at every level — from high-level applications to low-level systems and hardware 🚀🔧  
-- Engineering every line of code with the precision of a Ferrari F1 team 🏁💨
----
-
-### 🧰 My Pit Crew (Skills & Tools):
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-- ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-- ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-- ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+</div>
 
 ---
 
-### 🏆 My Motto:
-> “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏁
+<table>
+<tr>
+<td valign="top" width="65%">
 
+### 🏎️ About Me
+
+Hey, I'm **Alireza** — a developer driven by the thrill of building efficient, intelligent systems. Whether it's crafting low-level solutions in **Rust** 🦀, engineering concurrent backends in **Go** 🐹, or bringing AI to life with **Python** 🐍, I thrive on complex challenges.
+
+- 🤖 I build everything from ML/DL models and full-stack **Django** apps to Telegram bots and 3D automation scripts in **Blender**.
+- 🛠️ My passion is combining these tools to create powerful, integrated systems.
+- 🏁 I treat every line of code like a pit stop adjustment—precision and performance are everything.
+
+</td>
+<td valign="top" width="35%">
+
+<div align="center">
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="F1 Car GIF">
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 In The Driver's Seat (What I'm Focusing On)
+
+-   **Full-Stack Platforms:** Building robust web applications with **Django** as the backend engine.
+-   **AI & Machine Learning:** Training and deploying models with **TensorFlow**, **Pandas**, and **NumPy**.
+-   **Systems Programming:** Writing high-performance, memory-safe code in **Rust** and **Go**.
+-   **Creative Automation:** Scripting 3D workflows and generating assets using **Blender's Python API**.
+-   **Bot Development:** Creating smart, automated **Telegram bots** to simplify tasks.
+
+---
+
+### 🧰 The Pit Crew (My Tech Stack)
+
+<p align="center">
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
+  <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="#"><img alt="Go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"></a>
+  <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"></a>
+</p>
+<p align="center">
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"></a>
+</p>
+
+---
+
+### 🏁 Get In Touch
+
+<p align="center">
+  <a href="https://t.me/isalireza_ar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</p>
+
+> “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏆
