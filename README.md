@@ -47,7 +47,7 @@
 ### 🚀 In The Driver's Seat (What I'm Focusing On)
 
 -   **Full-Stack Platforms:** Building robust web applications with **Django** as the backend engine.
--   **AI & Machine Learning:** Training and deploying models with **TensorFlow**, **Pandas**, and **NumPy**.
+-   **AI & Machine Learning:** Training and deploying models with **TensorFlow**, **Pandas**, and **NumPy** and **Opencv**.
 -   **Systems Programming:** Writing high-performance, memory-safe code in **Rust** and **Go**.
 -   **Creative Automation:** Scripting 3D workflows and generating assets using **Blender's Python API**.
 -   **Bot Development:** Creating smart, automated **Telegram bots** to simplify tasks.
