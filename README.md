@@ -77,6 +77,7 @@
 
 <p align="center">
   <a href="https://t.me/isalireza_ar"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://www.linkedin.com/in/isalirezakarimi/"><img src="https://img.shields.io/badge/Linkdin-26A5E4?style=for-the-badge&logo=linkdin&logoColor=white" alt="Linkdin"></a>
 </p>
 
 > “Build with intelligence, deploy with speed. Just like F1 — it’s all about precision and timing.” 🧠🏆
