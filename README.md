@@ -20,7 +20,7 @@
 
 ### 🏎️ About Me
 
-🔹 Software Developer with 3+ years of experience in building advanced applications and AI-driven systems.<br/>
+🔹 Software Developer with 3+ years of experience in building advanced applications and web apps and AI-driven systems.<br/>
 🔹 Senior-level expertise in **Python** 🐍, with strong skills in designing and implementing optimized algorithms, data analysis, and developing web applications using the Django Framework.<br/>
 🔹 Hands-on experience in implementing and optimizing AI and Machine Learning models.<br/>
 🔹 Currently growing skills in **Go** 🐹 and **Rust** 🦀 (Junior level), with a strong interest in high-performance computing, scalable systems, and low-level programming.<br/>
