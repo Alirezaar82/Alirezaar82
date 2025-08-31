@@ -6,9 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/Alirezaar82">
-    <img src="https://github-readme-stats.vercel.app/api?username=Alirezaar82&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alireza's GitHub Stats" width="48%"/>
-  </a>
-  <a href="https://github.com/Alirezaar82">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezaar82&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
   </a>
 </p>
