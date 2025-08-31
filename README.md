@@ -31,6 +31,11 @@ Hey, I'm **Alireza** — a developer driven by the thrill of building efficient,
 
 <div align="center">
   <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="200" alt="F1 Car GIF">
+  <p>
+    <img src="https://github.com/Alirezaar82/Alirezaar82/blob/main/Rustlanguage-ezgif.com-optimize.gif?raw=true" width="80" alt="Rust GIF">
+    &nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="80" alt="Go Logo">
+  </p>
 </div>
 
 </td>
