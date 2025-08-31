@@ -20,11 +20,11 @@
 
 ### 🏎️ About Me
 
-Hey, I'm **Alireza** — a developer driven by the thrill of building efficient, intelligent systems. Whether it's crafting low-level solutions in **Rust** 🦀, engineering concurrent backends in **Go** 🐹, or bringing AI to life with **Python** 🐍, I thrive on complex challenges.
-
-- 🤖 I build everything from ML/DL models and full-stack **Django** apps to Telegram bots and 3D automation scripts in **Blender**.
-- 🛠️ My passion is combining these tools to create powerful, integrated systems.
-- 🏁 I treat every line of code like a pit stop adjustment—precision and performance are everything.
+🔹 Software Developer with 3+ years of experience in building advanced applications and AI-driven systems.
+🔹 Senior-level expertise in **Python** 🐍, with strong skills in designing and implementing optimized algorithms, data analysis, and developing web applications using the Django Framework.
+🔹 Hands-on experience in implementing and optimizing AI and Machine Learning models.
+🔹 Currently growing skills in **Go** 🐹 and **Rust** 🦀 (Junior level), with a strong interest in high-performance computing, scalable systems, and low-level programming.
+🔹 Committed to continuous learning and improving technical expertise with new technologies.
 
 </td>
 <td valign="top" width="35%">
