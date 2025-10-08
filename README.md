@@ -10,7 +10,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alirezaar82&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
   </a>
 </p>
-
 </div>
 
 ---
